@@ -7,7 +7,10 @@
 ---
 
 ## 📱 Ekran Görüntüleri ve Video
-*(Buraya uygulamanın ana sayfasından, oyun modundan ve harita çizimlerinden 3-4 adet ekran görüntüsü veya kısa bir oynanış GIF'i ekleyebilirsiniz. Sürükle bırak yaparak kolayca eklenir.)*
+<img width="2048" height="921" alt="WhatsApp Image 2026-07-14 at 23 03 46 (1)" src="https://github.com/user-attachments/assets/c86ed7e4-ddc8-4e06-9ebf-39e3ae687fe1" />
+<img width="2048" height="921" alt="WhatsApp Image 2026-07-14 at 23 03 46 (3)" src="https://github.com/user-attachments/assets/39778edc-4266-4bd8-aa78-d1b746845b72" />
+<img width="2048" height="921" alt="WhatsApp Image 2026-07-14 at 23 03 46 (5)" src="https://github.com/user-attachments/assets/53ce62a6-a0a4-4936-8d6c-9299d31c5a0d" />
+
 
 ---
 
