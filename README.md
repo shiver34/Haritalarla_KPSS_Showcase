@@ -58,9 +58,10 @@ Bu uygulama benim için sadece bir ürün değil, aynı zamanda ciddi bir öğre
 
 Uygulamanın Android versiyonunu (.apk) indirerek hemen deneyebilirsiniz:
 
-👉 **[Uygulama APK Dosyasını İndir](Buraya-Release-Kismindan-Aldiginiz-Link-Gelecek)**
+👉 **[Uygulama APK Dosyasını İndir](https://github.com/shiver34/Haritalarla_KPSS_Showcase/releases/download/v1.0.0/app-release.apk)**
+
 
 ---
 
-*Geliştirici:* **Abdullah Tuğra**  
+*Geliştirici:* **Abdullah Tuğra Zorbilmez**  
 *İletişim:* [LinkedIn](Senin-LinkedIn-Linkin) | [E-Posta](Senin-E-Posta-Adresin)
