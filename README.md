@@ -64,4 +64,4 @@ Uygulamanın Android versiyonunu (.apk) indirerek hemen deneyebilirsiniz:
 ---
 
 *Geliştirici:* **Abdullah Tuğra Zorbilmez**  
-*İletişim:* [LinkedIn](www.linkedin.com/in/abdullah-tuğra-zorbilmez-70b4b0334) | [E-Posta](abdullah66tugra@gmail.com)
+*İletişim:* [LinkedIn](https://www.linkedin.com/in/abdullah-tuğra-zorbilmez-70b4b0334) | [E-Posta](mailto:abdullah66tugra@gmail.com)
